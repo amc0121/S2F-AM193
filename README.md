@@ -17,8 +17,7 @@ Iyy = 0.735 (kg-m2)
 
 Izz = 2.085 (kg-m2)
 
-
-
+%%--------------------------------------------%%
 
 Information to interpret the trim table results:
 

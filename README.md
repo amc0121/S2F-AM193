@@ -11,7 +11,6 @@ Iyy = 0.735 (kg-m2)
 Izz = 2.085 (kg-m2)
 
 Information to interpret the trim table results:
-
 Case: trim case number (used to specify a specific trim condition)
 KEAS: freestream velocity for trim (kts)
 FPA: flightpath angle (deg) specified for trim (0 = no climb rate)
